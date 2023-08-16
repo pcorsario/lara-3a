@@ -1,5 +1,8 @@
 @extends('layouts.admintw')
 @section('content')
+<a href="{{route('students.create')}}" class="py-3 px-6 text-white rounded-lg bg-green-400 
+shadow-lg block md:inline-block">Agregar Nuevo</a>
+<br>
 <table class="min-w-full">
     <thead>
         <tr>

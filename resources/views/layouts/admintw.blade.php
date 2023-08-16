@@ -82,7 +82,7 @@
             </div>
             <div class="w-full px-4 py-2 bg-gray-200 lg:w-full">
                 <div class="container mx-auto mt-12">
-                    <div class="grid gap-4 lg:grid-cols-3">
+                    {{-- <div class="grid gap-4 lg:grid-cols-3">
                         <div class="flex items-center px-4 py-6 bg-white rounded-md shadow-md">
                             <div class="p-3 bg-indigo-600 rounded">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 text-white" fill="none"
@@ -125,7 +125,7 @@
                                 <div class="text-gray-500">All Transaction</div>
                             </div>
                         </div>
-                    </div>
+                    </div> --}}
                     <div class="flex flex-col mt-8">
                         <div class="py-2 -my-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8">
                             <div
