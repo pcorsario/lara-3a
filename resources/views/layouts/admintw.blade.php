@@ -46,14 +46,14 @@
                             </a>
                         </li>
                         <li class="mb-2 bg-gray-800 rounded shadow">
-                            <a href="#" class="inline-block w-full h-full px-3 py-2 font-bold text-white">
+                            <a href="{{route('students.index')}}" class="inline-block w-full h-full px-3 py-2 font-bold text-white">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="inline-block w-6 h-6 mr-2 -mt-2"
                                     viewBox="0 0 20 20" fill="currentColor">
                                     <path fill-rule="evenodd"
                                         d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4z"
                                         clip-rule="evenodd" />
                                 </svg>
-                                Blogs
+                                Estudiantes
                             </a>
                         </li>
                         <li class="mb-2 rounded hover:shadow hover:bg-gray-800">
@@ -63,7 +63,7 @@
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                         d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                                 </svg>
-                                Reports
+                                Teachers
                             </a>
                         </li>
                         <li class="mb-2 rounded hover:shadow hover:bg-gray-800">
